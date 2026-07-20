@@ -17,6 +17,6 @@ Também tenho interesse em infraestrutura em nuvem, sistemas distribuídos e arq
 
 ---
 ### Contactos:
-- Email:      matendafigueiredo@hotmail.com\
-- Telefone:   935570341 - 953105078\
+- Email:      matendafigueiredo@hotmail.com
+- Telefone:   935570341 - 953105078
 - Linkedin:   [@nelsonmatenda](https://www.linkedin.com/in/nelsonmatenda/)
