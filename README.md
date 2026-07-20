@@ -4,6 +4,7 @@ Atualmente, meu foco de carreira está em **Engenharia de Dados e Análise de Da
 
 Também tenho interesse em infraestrutura em nuvem, sistemas distribuídos e arquitetura de backend.
 
+---
 **Linguagens de Programação** : Python, Go/Golang, TypeScript, JavaScript, SQL, C/C++;
 
 **Sistema operativo**: Linux(predominante), Windows;
@@ -14,3 +15,8 @@ Também tenho interesse em infraestrutura em nuvem, sistemas distribuídos e arq
 
 **Atualmente estudando** : Data Pipelines(ETL/ELT), Data Warehouse, Cloud Computing, Apache Spark;
 
+---
+### Contactos:
+- Email:      matendafigueiredo@hotmail.com\
+- Telefone:   935570341 - 953105078\
+- Linkedin:   [@nelsonmatenda](https://www.linkedin.com/in/nelsonmatenda/)
